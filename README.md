@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben
 - 👀 I’m interested in coding, Java, video games, etc.
-- 🌱 I’m currently learning Java, Git, etc. on OpenClassrooms, Udemy, W3School..
+- 🌱 I’m currently learning Java, Git, etc. on OpenClassrooms, CodeGym Udemy and W3School.
 
 <!---
 BBornier/BBornier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
